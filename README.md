@@ -1,3 +1,18 @@
+======================================================
+My Changes
+
+-Account Class-
+Added the withdraw and deposit functions that can be used by both the Withdraw
+and Transfer classes
+
+-Withdraw Class-
+Completed execute function
+
+-Transfer Class-
+Refined the execute function
+======================================================
+
+
 # Moneybox Money Withdrawal
 
 The solution contains a .NET core library (Moneybox.App) which is structured into the following 3 folders:
